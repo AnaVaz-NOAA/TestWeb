@@ -14,6 +14,17 @@ resources:
   - demo.pdf
 ---
 
+## This is a test!
+
+This presentation is the demo from Quarto. 
+
+The original source code:
+
+https://github.com/quarto-dev/quarto-web/blob/main/docs/presentations/revealjs/demo/index.qmd
+
+An overview of presentations:
+https://quarto.org/docs/websites/
+
 ## Hello, There
 
 This presentation will show you examples of what you can do with Quarto and [Reveal.js](https://revealjs.com), including:
